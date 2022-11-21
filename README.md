@@ -65,7 +65,9 @@ Run the Project
 │   |   └── Variable                  # Variable scss
 │   ├── App.js                      # Home Pages initiate 
 │   └── index.js                    # Default Router and Redux Provider
-└── package.json                  # package file
+├── .env                          # Environment 
+└── package.json                  # Package file initial
+
 ```
 
 ### Deployment
