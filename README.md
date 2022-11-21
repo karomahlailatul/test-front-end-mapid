@@ -68,6 +68,8 @@ Run the Project
 └── package.json                  # package file
 ```
 
+### Deployment
+- Vercel
 
 ### Feature
 - Showing Map with marker
@@ -76,6 +78,4 @@ Run the Project
 - Dark/Light Map Mode
 
 
-### Deployment
-- Vercel
 
