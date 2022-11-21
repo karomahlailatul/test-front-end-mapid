@@ -1,7 +1,6 @@
 import { createSlice } from "@reduxjs/toolkit";
 
-const initialStateValue =
-  "pk.eyJ1Ijoidmlub2FyeXN0aW8iLCJhIjoiY2w2czRvaTR4MHRzcTNibzhlNGUzYWNpNSJ9.oehlKj-dv7_LzzmhzVJcmg";
+const initialStateValue = process.env.REACT_APP_TOKEN_KEY;
 
 export const tokenSlice = createSlice({
   name: "token",

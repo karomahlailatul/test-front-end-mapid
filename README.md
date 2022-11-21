@@ -25,7 +25,7 @@ Install all Package
 Configurate Environment 
 
 create .env form sample .env.example on global
-and please [Contact us](mailto:karomahlailatul@gmail.com) to get value API_KEY 
+and please [Contact us](mailto:karomahlailatul@gmail.com) to get value API_KEY & TOKEN_KEY
 
 Run the Project
 
