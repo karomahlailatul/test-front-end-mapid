@@ -22,6 +22,11 @@ Install all Package
   npm install
 ```
 
+Configurate Environment 
+
+create .env form sample .env.example on global
+and please [Contact us](mailto:karomahlailatul@gmail.com) to get value API_KEY 
+
 Run the Project
 
 ```bash
@@ -69,4 +74,8 @@ Run the Project
 - Show Popup on click marker
 - Filter by colour on marker
 - Dark/Light Map Mode
+
+
+### Deployment
+- Vercel
 
